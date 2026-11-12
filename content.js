@@ -77,9 +77,9 @@ Maybe that is just another shade of human.`
   // src: path to the file   alt: description for screen readers
   photos: [
     // caption = small line above the title, title = heading, text = optional short line
-    { src: "photos/img1.jpeg", caption: "frame one", title: "Golden hour", text: "Replace me with a short line about this photo.", alt: "Sand placeholder" },
-    { src: "photos/img2.jpeg", caption: "frame two", title: "Blue stillness", text: "Every photo can have a title and a line.", alt: "Sage placeholder" },
-    { src: "photos/img3.jpeg", caption: "frame three", title: "Dusk", alt: "Stone placeholder" },
-    { src: "photos/img4.jpeg", caption: "frame four", title: "Ember", alt: "Rose placeholder" }
+    { src: "photos/img1.jpeg", caption: "2026", title: "Golden hour", text: "It's always these little moments :)", alt: "Sand placeholder" },
+    { src: "photos/img2.jpeg", caption: "2026", title: "Blue stillness", text: "Every photo can have a title and a line.", alt: "Sage placeholder" },
+    { src: "photos/img3.jpeg", caption: "2026", title: "Dusky afternoon",text: "always a sunshine💗.", alt: "Stone placeholder" },
+    { src: "photos/img4.jpeg", caption: "2025", title: "Sunsets :)", alt: "Rose placeholder" }
   ]
 };
