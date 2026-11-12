@@ -47,7 +47,7 @@ window.SITE = {
   // Optional: add  excerpt: "..."  to control the preview line.
   writing: [
     {
-      title: "The constellation of us",
+      title: "The constellation of us💗",
       date: "Nov 2026",
       text: `We meet people at different ages, during different life spans, and somehow become a part of their story.
 
