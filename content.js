@@ -80,6 +80,7 @@ Maybe that is just another shade of human.`
     { src: "photos/img1.jpeg", caption: "2026", title: "Golden hour", text: "It's always these little moments :)", alt: "Sand placeholder" },
     { src: "photos/img2.jpeg", caption: "2026", title: "Blue stillness", text: "Every photo can have a title and a line.", alt: "Sage placeholder" },
     { src: "photos/img3.jpeg", caption: "2026", title: "Dusky afternoon",text: "always a sunshine💗.", alt: "Stone placeholder" },
-    { src: "photos/img4.jpeg", caption: "2025", title: "Sunsets :)", alt: "Rose placeholder" }
+    { src: "photos/img4.jpeg", caption: "2025", title: "Sunsets :)", alt: "Rose placeholder" },
+     { src: "photos/sea.jpeg", caption: "2026", title: "always a scooty person :)", alt: "Rose placeholder" }
   ]
 };
